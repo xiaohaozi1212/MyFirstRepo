@@ -1,6 +1,7 @@
 package ca.myseneca.model;
 
-public class DBAccessHelper {
+public class b {
 	public static void main(String[] args) throws Exception {
+		System.out.println("input 2st number : ");
 	}
 }
